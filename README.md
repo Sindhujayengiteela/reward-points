@@ -27,8 +27,10 @@ This creates the monthly reports for the advertisements views, gifts redemtion.
 ## Usecase Diagrams
 
 ### User
+![User](https://user-images.githubusercontent.com/115327086/194716645-6ed70e19-e0ae-4877-84da-9fa83ab4eae2.PNG)
 
 ### Admin
+![Admin](https://user-images.githubusercontent.com/115327086/194716666-f1d6df65-5257-49aa-97ad-c6137c1f52ac.PNG)
 
 ## Future Enhancements
 Add the searching option, can directly search to the particular product company  from this site .
